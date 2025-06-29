@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1319-unique-number-of-occurrences](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
