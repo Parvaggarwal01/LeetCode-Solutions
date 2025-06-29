@@ -11,10 +11,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1319-unique-number-of-occurrences](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Counting
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+## String
+|  |
+| ------- |
+| [0782-jewels-and-stones](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 <!---LeetCode Topics End-->
