@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Queue
 |  |
 | ------- |
