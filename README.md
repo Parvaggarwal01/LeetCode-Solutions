@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0234-palindrome-linked-list](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -177,6 +179,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
