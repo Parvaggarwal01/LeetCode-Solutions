@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0898-transpose-matrix](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
@@ -221,10 +222,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
