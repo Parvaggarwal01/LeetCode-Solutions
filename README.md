@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Recursion
 |  |
 | ------- |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
 | ------- |
