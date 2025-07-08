@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0860-design-circular-queue](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0860-design-circular-queue) |
 | [0898-transpose-matrix](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0860-design-circular-queue](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0969-number-of-recent-calls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Two Pointers
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
+| [0860-design-circular-queue](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0860-design-circular-queue](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0969-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
