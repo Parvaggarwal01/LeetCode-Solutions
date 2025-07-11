@@ -268,4 +268,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0078-subsets) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
