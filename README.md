@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1039-find-the-town-judge](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1319-unique-number-of-occurrences](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0940-fruit-into-baskets](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
+| [1039-find-the-town-judge](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-unique-number-of-occurrences](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [1039-find-the-town-judge](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Greedy
 |  |
