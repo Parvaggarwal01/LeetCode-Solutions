@@ -1,23 +1,22 @@
 class Solution {
 public:
     int findCenter(vector<vector<int>>& edges) {
-        vector<int> first;
-        vector<int> second;
-        for(int i =0; i<edges.size(); i++){
-            first.push_back(edges[i][0]);
-            second.push_back(edges[i][1]);
+        // int n = edges.size();
+        // vector<vector<int>> adj(n+2);
+        // for(int i = 0; i<n; i++){
+        //     adj[edges[i][0]].push_back(edges[i][1]);
+        //     adj[edges[i][1]].push_back(edges[i][0]);
+        // }
+        // for(int i = 1; i <n+1; i++){
+        //     if(adj[i].size() == n){
+        //         return i;
+        //     }
+        // }
+        // return 0;
+        if (edges[0][0] == edges[1][0] || edges[0][0] == edges[1][1]) {
+            return edges[0][0];
+        } else {
+            return edges[0][1];
         }
-        for(int i = 0; i<edges.size(); i++){
-            for(int j = 0; j<edges.size(); j++){
-                if(first[i] == second[j]){
-                    return first[i];
-                }else if(second[i] == second[i+1]){
-                    return second[i];
-                }else if(first[i] == first[i+1]){
-                    return first[i];
-                }
-            }
-        }
-        return -1;
     }
 };
