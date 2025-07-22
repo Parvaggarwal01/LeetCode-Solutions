@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [1039-find-the-town-judge](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
+| [1916-find-center-of-star-graph](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Greedy
 |  |
