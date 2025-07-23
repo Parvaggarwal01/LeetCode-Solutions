@@ -1,15 +1,18 @@
 class Solution {
 public:
-    int minPath(vector<vector<int>>& grid, int i, int j){
+    int minPath(vector<vector<int>>& grid, int i, int j, vector<vector<int>>& dp){
         if(i<0 || j<0){
             return INT_MAX;
         }
         if(i == 0 && j == 0){
             return grid[i][j];
         }
-        int up = minPath(grid, i-1, j);
-        int left = minPath(grid, i, j-1);
-        return grid[i][j] + min(up, left);
+        if(dp[i][j] != -1){
+            return dp[i][j];
+        }
+        int up = minPath(grid, i-1, j, dp);
+        int left = minPath(grid, i, j-1, dp);
+        return dp[i][j] = grid[i][j] + min(up, left);
     }
     int minPath2(vector<vector<int>>& grid, int i, int j, vector<vector<int>>& dp){
         int n = grid.size();
@@ -31,6 +34,6 @@ public:
         int n = grid.size();
         int m = grid[0].size();
         vector<vector<int>> dp(n, vector<int>(m, -1));
-        return minPath2(grid, 0, 0, dp);
+        return minPath(grid, n-1, m-1, dp);
     }
 };
