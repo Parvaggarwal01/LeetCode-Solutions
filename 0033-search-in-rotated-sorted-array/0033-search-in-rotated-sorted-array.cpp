@@ -10,15 +10,15 @@ public:
                 return mid;
             }
             if(nums[low] <= nums[mid]){
-                if(nums[low] <= target && target < nums[mid]){
+                if(target < nums[mid] && target >= nums[low]){
                     high = mid - 1;
                 }else{
                     low = mid + 1;
                 }
-            }else {
-                if(target > nums[mid] && nums[high] >= target){
+            }else{
+                if(target > nums[mid] && target <= nums[high]){
                     low = mid + 1;
-                }else {
+                }else{
                     high = mid - 1;
                 }
             }
