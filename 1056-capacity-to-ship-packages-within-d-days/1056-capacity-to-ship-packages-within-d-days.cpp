@@ -1,33 +1,32 @@
 class Solution {
 public:
-    int shipWithinDays(vector<int>& weights, int days) {
-        int maxw = -1;
-        int totalw = 0;
-        int n = weights.size();
-        for(int i = 0; i<n; i++){
-            if(maxw < weights[i]){
-                maxw = weights[i];
-            }
-            totalw = totalw + weights[i];
-        }
-
-        while(maxw < totalw){
-            int mid = maxw + (totalw - maxw)/2;
-            int curr = 0;
-            int day = 1;
-            for(int i = 0; i<n; i++){
-                if(curr + weights[i] > mid){
-                    day++;
-                    curr = 0;
-                }
-                curr = curr + weights[i];
-            }
-            if(day > days){
-                maxw = mid +1;
-            }else {
-                totalw = mid;
+    int func(vector<int>& arr, int mid){
+        int day=1;
+        int load=0;
+        for(int i = 0; i<arr.size(); i++){
+            if(load + arr[i] > mid){
+                day = day+1;
+                load = arr[i];
+            }else{
+                load += arr[i];
             }
         }
-        return maxw;
+        return day;
+    }
+    int shipWithinDays(vector<int>& arr, int days) {
+        int low = *max_element(arr.begin(), arr.end());
+        int high = accumulate(arr.begin(), arr.end(), 0);
+        int ans = 0;
+        while(low <= high){
+            int mid = low + (high - low)/2;
+            int day = func(arr, mid); 
+            if(day <= days){
+                high = mid - 1;
+                ans = mid;
+            }else{
+                low = mid + 1;
+            }
+        }
+        return ans;
     }
 };
