@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
