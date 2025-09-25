@@ -1,8 +1,8 @@
 class Solution {
 public:
-    bool isValid(vector<int>& nums, int maxSum, int k){
+    bool isValid(vector<int>& arr, int maxSum, int k){
         int count = 1, currSum = 0;
-        for(int x : nums){
+        for(int x: arr){
             if(currSum + x > maxSum){
                 count++;
                 currSum = x;
@@ -15,16 +15,15 @@ public:
         }
         return true;
     }
-    int splitArray(vector<int>& nums, int k) {
-        int low = *max_element(nums.begin(), nums.end());
-        int high = accumulate(nums.begin(), nums.end(), 0);
+    int splitArray(vector<int>& arr, int k) {
+        int low = *max_element(arr.begin(), arr.end());
+        int high = accumulate(arr.begin(), arr.end(), 0);
         int ans = high;
-
         while(low <= high){
             int mid = low + (high - low)/2;
-            if(isValid(nums, mid, k)){
+            if(isValid(arr, mid, k)){
                 ans = mid;
-                high = mid-1;
+                high = mid - 1;
             }else{
                 low = mid + 1;
             }
