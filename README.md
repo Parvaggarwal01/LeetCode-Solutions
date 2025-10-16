@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3373-maximum-prime-difference](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3373-maximum-prime-difference) |
 ## Bit Manipulation
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3373-maximum-prime-difference](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3373-maximum-prime-difference) |
 ## Quickselect
