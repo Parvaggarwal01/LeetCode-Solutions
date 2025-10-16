@@ -27,9 +27,10 @@ public:
             }
         }
         int lastIndex = 0;
-        for(int i =0; i<nums.size(); i++){
+        for(int i =nums.size()-1; i>=0; i--){
             if(isPrime(nums[i])){
                 lastIndex = i;
+                break;
             }
         }
         return lastIndex - firstIndex;
