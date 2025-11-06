@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0782-jewels-and-stones](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
