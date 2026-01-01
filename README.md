@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0860-design-circular-queue) |
+| [0867-transpose-matrix](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0867-transpose-matrix](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 ## Dynamic Programming
 |  |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0874-backspace-string-compare](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
