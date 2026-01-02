@@ -5,7 +5,7 @@ public:
         double ans = INT_MIN;
         int j = 0;
         double avg = 0;
-        for(int i = 0; i<nums.size(); i++){
+        for(int i=0; i<nums.size(); i++){
             sum = sum + nums[i];
             if(i - j + 1 == k){
                 avg = sum/k;
