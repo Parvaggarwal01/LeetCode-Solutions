@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1319-unique-number-of-occurrences](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
+| [1390-four-divisors](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [1390-four-divisors](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
