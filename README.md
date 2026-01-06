@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
