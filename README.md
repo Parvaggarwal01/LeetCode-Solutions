@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1390-four-divisors](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Divide and Conquer
 |  |
 | ------- |
