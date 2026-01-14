@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [3373-maximum-prime-difference](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3373-maximum-prime-difference) |
 | [3453-separate-squares-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [2716-prime-subtraction-operation](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [3453-separate-squares-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+| [3454-separate-squares-ii](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -588,4 +591,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
