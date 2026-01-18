@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1895-largest-magic-square](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
+| [1895-largest-magic-square](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 ## Dynamic Programming
 |  |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1895-largest-magic-square](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
 ## Simulation
 |  |
 | ------- |
