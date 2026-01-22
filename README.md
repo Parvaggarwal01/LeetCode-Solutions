@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3373-maximum-prime-difference](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3373-maximum-prime-difference) |
 | [3453-separate-squares-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Counting
 |  |
 | ------- |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0948-sort-an-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -399,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -598,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -610,4 +616,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
