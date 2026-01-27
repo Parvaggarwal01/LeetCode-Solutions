@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 ## Bucket Sort
@@ -398,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
