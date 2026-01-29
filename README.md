@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2716-prime-subtraction-operation](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Queue
 |  |
 | ------- |
@@ -648,4 +650,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
