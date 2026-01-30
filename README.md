@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Queue
 |  |
 | ------- |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Divide and Conquer
 |  |
@@ -654,8 +657,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Shortest Path
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Trie
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
