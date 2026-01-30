@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
+| [1929-concatenation-of-array](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1929-concatenation-of-array](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
