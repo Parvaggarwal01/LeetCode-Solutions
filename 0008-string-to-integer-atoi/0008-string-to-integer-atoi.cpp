@@ -1,135 +1,32 @@
-class Solution{
-
+class Solution {
 public:
-    int
-
-    myAtoi(string s)
-
-    {
-
-        int sign =
-
-            1;
-
-        int result =
-
-            0;
-
-        int index =
-
-            0;
-
-        int n = s.size();
-
-        // Discard leading whitespace
-
-        while
-
-            (index < n && s[index]
-
-                              ==
-
-                              ' ')
-
-        {
-
-            index++;
+    int helper(string &s, int i, long long num, int sign){
+        if(i >= s.size() || !isdigit(s[i])){
+            num *= sign;
+            if(num > INT_MAX) return INT_MAX;
+            if(num < INT_MIN) return INT_MIN;
+            return (int)num;
         }
 
-        // Check for sign
+        num = num * 10 + (s[i] - '0');
 
-        if
+        if(sign == 1 && num > INT_MAX) return INT_MAX;
+        if(sign == -1 && -num < INT_MIN) return INT_MIN;
 
-            (index < n &&
-
-             (s[index]
-
-                  ==
-
-                  '+'
-
-              || s[index]
-
-                     ==
-
-                     '-'))
-
-        {
-
-            sign =
-
-                (s[index]
-
-                 ==
-
-                 '-')
-
-                    ?
-
-                    -1
-
-                    :
-
-                    1;
-
-            index++;
+        return helper(s, i+1, num, sign);
+    }
+    int myAtoi(string s) {
+        int i = 0;
+        while(i < s.size() && s[i] == ' '){
+            i++;
+        }
+        int sign = 1;
+        if(i<s.size() && (s[i] == '+' || s[i] == '-')){
+            sign = (s[i] == '-') ? -1 : 1;
+            i++;
         }
 
-        // Convert number and avoid overflow
-
-        while
-
-            (index < n &&
-
-             isdigit(s[index]))
-
-        {
-
-            int digit = s[index]
-
-                        -
-
-                        '0';
-
-            // Check if overflow will occur
-
-            if
-
-                (result > INT_MAX /
-
-                              10
-
-                 ||
-
-                 (result == INT_MAX /
-
-                                10
-
-                  && digit > INT_MAX %
-
-                                 10))
-
-            {
-
-                return
-
-                    (sign ==
-
-                     1)
-
-                        ? INT_MAX
-                        : INT_MIN;
-            }
-
-            result = result *
-
-                         10
-
-                     + digit;
-
-            index++;
-        }
-
-        return sign * result;
+        return helper(s, i, 0, sign);
+        
     }
 };
