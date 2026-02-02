@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0382-linked-list-random-node](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
+| [0390-elimination-game](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0390-elimination-game) |
 | [0415-add-strings](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1390-four-divisors](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1390-four-divisors) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0390-elimination-game](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0390-elimination-game) |
 | [1013-fibonacci-number](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 ## Memoization
