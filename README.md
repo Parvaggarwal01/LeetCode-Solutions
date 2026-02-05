@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3373-maximum-prime-difference](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3373-maximum-prime-difference) |
+| [3379-transformed-array](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3379-transformed-array](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
