@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0948-sort-an-array](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0948-sort-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Interactive
 |  |
 | ------- |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -601,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Number Theory
 |  |
 | ------- |
@@ -634,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [1382-balance-a-binary-search-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2716-prime-subtraction-operation](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
