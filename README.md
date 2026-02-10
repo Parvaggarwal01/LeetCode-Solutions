@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3719-longest-balanced-subarray-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
 |  |
 | ------- |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0948-sort-an-array](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Interactive
 |  |
 | ------- |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1895-largest-magic-square](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
+| [3719-longest-balanced-subarray-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Simulation
 |  |
 | ------- |
@@ -664,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [3454-separate-squares-ii](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Ordered Set
 |  |
 | ------- |
