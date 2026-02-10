@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0969-number-of-recent-calls) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0654-maximum-binary-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0682-baseball-game) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0860-design-circular-queue](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0969-number-of-recent-calls) |
 ## Monotonic Stack
