@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
