@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0067-add-binary) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0050-powx-n) |
