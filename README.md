@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Matrix
