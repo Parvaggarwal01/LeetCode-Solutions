@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
+| [2104-sum-of-subarray-ranges](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2104-sum-of-subarray-ranges](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [2104-sum-of-subarray-ranges](https://github.com/Parvaggarwal01/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Data Stream
 |  |
 | ------- |
